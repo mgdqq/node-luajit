@@ -34,7 +34,7 @@
   "author": "smallwhite",
   "license": "ISC",
   "dependencies": {
-    "node-pre-gyp": "^0.17.0"
+    "@mapbox/node-pre-gyp": "^1.0.8"
   },
   "devDependencies": {
     "co": "4.6.0",
